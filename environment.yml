@@ -1,4 +1,4 @@
-name: carnd-term1
+name: carnd-t3kit
 channels:
     - https://conda.anaconda.org/menpo
     - conda-forge
@@ -24,4 +24,3 @@ dependencies:
         - moviepy
         - tensorflow==1.0.0
         - keras==1.2.1
-        - tqdm
