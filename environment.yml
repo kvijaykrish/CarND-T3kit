@@ -24,3 +24,4 @@ dependencies:
         - moviepy
         - tensorflow==1.0.0
         - keras==1.2.1
+        - tqdm
